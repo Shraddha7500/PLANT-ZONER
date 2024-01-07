@@ -6,8 +6,7 @@ To get started with the project, you will need to have a local web server enviro
 
 ## Installation
 * Clone the repository to your local machine using the following command:<br/>
-  `git clone https://github.com/goelraghav002/plant-ecommerce.git`
-
+  `git clone https: https://shraddha7500.github.io/PLANT-ZONER/'
 * Create a new database in your MySQL server and import the database.sql file located in the database folder.
 
 * Open the includes/config.php file and update the database configuration values to match your local environment.
